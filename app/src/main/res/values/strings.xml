@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">TextfieldButton</string>
     <string name="edit_message">Type Here :)</string>
-    <string name="button_send">Gora</string>
+    <string name="button_send">Send</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+
+    <string name="cancel">Clear</string>
 </resources>
